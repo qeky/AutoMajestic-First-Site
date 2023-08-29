@@ -1,5 +1,4 @@
-# AutoMajestic-First-Site
-## Screenshots of the first site
+# Screenshots of the first site
 
 ### *The main page of the site*
 
